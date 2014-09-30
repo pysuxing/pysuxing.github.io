@@ -1,0 +1,5 @@
+Sitemap: http://pysuxing.com/sitemapindex.xml
+
+User-Agent: *
+Disallow: /archives/index.html
+Disallow: /tags/*.html
