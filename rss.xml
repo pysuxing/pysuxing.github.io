@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>苏醒</title><link>http://pysuxing.com/</link><description>苏醒的个人网站</description><language>zh_cn</language><lastBuildDate>Sun, 05 Oct 2014 22:41:32 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>苏醒</title><link>http://pysuxing.com/</link><description>苏醒的个人网站</description><language>zh_cn</language><lastBuildDate>Tue, 07 Oct 2014 18:40:20 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Python高级编程</title><link>http://pysuxing.com/posts/python-gao-ji-bian-cheng.html</link><dc:creator>苏醒</dc:creator><description>&lt;div&gt;&lt;p&gt;博主打算撰写一系列介绍Python编程的文章。&lt;/p&gt;
+&lt;p&gt;你可能注意到了，称之为&lt;strong&gt;高级&lt;/strong&gt;编程，说明这一系列文章的定位并非介绍性的tutorial，
+因为现在已经有许多公开的、高质量的Python入门书籍供大家参考。&lt;/p&gt;
+&lt;p&gt;在这里我希望介绍一些进阶的Python编程知识，如果有可能的话，
+会尽量涉及到Python的内部设计与实现细节。&lt;/p&gt;
+&lt;p&gt;博主会使用&lt;a href="http://pysuxing.com/tags/python.html" title="python"&gt;python&lt;/a&gt;与&lt;a href="http://pysuxing.com/tags/tutorial.html" title="tutorial"&gt;tutorial&lt;/a&gt;标签进行标记，
+你可以通过标签找到这个系列的所有文章。&lt;/p&gt;&lt;/div&gt;</description><category>python</category><category>tutorial</category><guid>http://pysuxing.com/posts/python-gao-ji-bian-cheng.html</guid><pubDate>Tue, 07 Oct 2014 10:22:55 GMT</pubDate></item><item><title>Hello World</title><link>http://pysuxing.com/posts/hello-world.html</link><dc:creator>苏醒</dc:creator><description>&lt;div&gt;&lt;p&gt;这是&lt;a href="http://pysuxing.com/" title="苏醒的个人网站"&gt;博主的个人网站&lt;/a&gt;发出的的第一个声音！&lt;/p&gt;
+&lt;p&gt;网站定位基本上是一个技术博客，博主希望它能够成为分享知识、
+提升自己、推广自己的平台。&lt;/p&gt;
+&lt;p&gt;这里不会发表马路牙子上的东西，博主会尽量使自己的文章有内容、有深度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;坚持写作&lt;/strong&gt;，这是最重要的。&lt;/p&gt;&lt;/div&gt;</description><category>blog</category><category>nikola</category><guid>http://pysuxing.com/posts/hello-world.html</guid><pubDate>Tue, 07 Oct 2014 10:02:16 GMT</pubDate></item></channel></rss>

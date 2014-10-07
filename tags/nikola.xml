@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>苏醒 (nikola)</title><link>http://pysuxing.com/</link><description></description><language>zh_cn</language><lastBuildDate>Tue, 07 Oct 2014 18:40:20 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World</title><link>http://pysuxing.com/posts/hello-world.html</link><dc:creator>苏醒</dc:creator><description>&lt;div&gt;&lt;p&gt;这是&lt;a href="http://pysuxing.com/" title="苏醒的个人网站"&gt;博主的个人网站&lt;/a&gt;发出的的第一个声音！&lt;/p&gt;
+&lt;p&gt;网站定位基本上是一个技术博客，博主希望它能够成为分享知识、
+提升自己、推广自己的平台。&lt;/p&gt;
+&lt;p&gt;这里不会发表马路牙子上的东西，博主会尽量使自己的文章有内容、有深度。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;坚持写作&lt;/strong&gt;，这是最重要的。&lt;/p&gt;&lt;/div&gt;</description><category>blog</category><category>nikola</category><guid>http://pysuxing.com/posts/hello-world.html</guid><pubDate>Tue, 07 Oct 2014 10:02:16 GMT</pubDate></item></channel></rss>
